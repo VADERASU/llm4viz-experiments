@@ -1,0 +1,1921 @@
+index,chartType,qNum,question,answer,qType,qaInput,response,time,correct,qType_simple,expType,LLM
+179.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Company F
+(d) Others",(d),0.8095889091491699,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+143.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.636066198348999,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+340.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),1.0214557647705078,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+332.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 50%
+(d) 33%",(b),0.6917109489440918,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+131.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 15%
+(d) 25%",(c),1.098879098892212,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+14.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),1.1572978496551514,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+313.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 25%
+(d) 15%",(c) 25%,0.7630021572113037,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+162.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6299960613250732,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+8.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 25%
+(d) 33%",(b),0.9068868160247803,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+203.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.9346561431884766,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+107.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6137888431549072,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+88.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7897729873657227,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+50.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),1.0598208904266357,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+262.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Company E
+(d) Others",(d),0.5701630115509033,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+22.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 25%
+(d) 33%",(a),0.8752849102020264,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+40.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company F
+(d) Company E",(b),1.1466002464294434,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+339.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 33%
+(d) 50%",(b),0.5973930358886719,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+314.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company F
+(d) Company C",(b) Company E,0.6146769523620605,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+129.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Company F
+(d) Others",(d),0.8193352222442627,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+117.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Others
+(d) Company C",(c),0.7813513278961182,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+213.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Company E
+(d) Others",(d),0.9124491214752197,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+248.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company F
+(d) Company E",(b),0.6411480903625488,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+283.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 25%
+(d) 50%",(a),0.5445430278778076,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+310.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8558430671691895,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+236.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7226638793945312,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+140.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 15%
+(d) 33%",(b),1.003816843032837,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+244.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 15%
+(d) 33%",(b),0.788844108581543,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+65.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.9403419494628906,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+29.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 33%
+(d) 15%",(d),0.7911558151245117,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+350.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Others
+(d) Company F",(c),1.7162809371948242,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+253.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.5990538597106934,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+87.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company C
+(d) Company F",(b) Company E,1.4165220260620117,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+125.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 25%
+(d) 33%",(a),0.7868890762329102,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+157.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),1.011502981185913,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+169.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Others
+(d) Company C",(c),0.5780980587005615,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+354.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Others
+(d) Company C",(c),1.3482849597930908,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+298.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 33%
+(d) 50%",(b),0.6974198818206787,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+136.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7907109260559082,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+335.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.8222911357879639,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+257.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.8183588981628418,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+121.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 15%
+(d) 33%",(b),0.6384472846984863,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+83.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company E
+(d) Company C",(b),0.7736561298370361,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+48.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 33%
+(d) 25%",(b),0.7519862651824951,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+331.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Company F
+(d) Others",(d),0.8779492378234863,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+132.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company C
+(d) Company F",(b),0.8344810009002686,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+208.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Company C
+(d) Others",(d),1.1642968654632568,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+217.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company E
+(d) Company F",(b),6.134915113449097,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+113.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company E
+(d) Company F",(b),0.8101460933685303,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+44.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Others
+(d) Company F",(c),0.5493710041046143,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+194.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8310801982879639,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+204.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 50%
+(d) 33%",(a),0.912755012512207,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+172.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.5761477947235107,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+183.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 15%
+(d) 25%",(b),0.6647310256958008,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+165.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 25%
+(d) 15%",(c),0.8116059303283691,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+287.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 15%
+(d) 50%",(b),0.7321360111236572,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+272.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Others
+(d) Company E",(c),0.5574181079864502,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+98.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6045289039611816,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+32.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 33%
+(d) 15%",(d),1.0655298233032227,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+190.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Others
+(d) Company C",(c),0.8858859539031982,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+166.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.768031120300293,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+210.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 15%
+(d) 50%",(c),0.7273530960083008,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+284.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9754829406738281,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+114.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 33%
+(d) 50%",(b),0.7245450019836426,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+31.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8273112773895264,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+26.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 25%
+(d) 33%",(a),0.8193771839141846,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+18.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 15%
+(d) 33%",(b),0.906688928604126,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+258.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Company F
+(d) Others",(d),0.6278383731842041,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+275.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 33%
+(d) 50%",(c),0.7134537696838379,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+197.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 25%
+(d) 15%",(b),0.8319849967956543,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+239.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.5538640022277832,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+150.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 15%
+(d) 33%",(c) 15%,0.9854400157928467,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+188.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 25%
+(d) 33%",(b),0.7964560985565186,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+226.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,1.0693960189819336,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+75.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),1.0409331321716309,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+247.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company F
+(d) Company C",(b) Company E,0.7221360206604004,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+222.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company C
+(d) Company E",(b),0.6663401126861572,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+325.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Others
+(d) Company F",(c),0.5916140079498291,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+118.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Others
+(d) Company C",(c),1.1142957210540771,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+135.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 50%
+(d) 33%",(b),0.6929829120635986,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+308.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 15%
+(d) 25%",(c) 15%,0.8129069805145264,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+336.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 25%
+(d) 33%",(b),0.7159097194671631,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+97.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company C
+(d) Company F",(b),0.9172651767730713,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+243.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.6382310390472412,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+147.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.9184181690216064,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+231.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 15%
+(d) 50%",(c),1.313452959060669,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+263.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company E
+(d) Company C",(b),0.6748001575469971,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+202.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6102809906005859,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+30.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Company E
+(d) Others",(d),0.7119779586791992,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+192.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 15%
+(d) 50%",(c),0.5478839874267578,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+138.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7244911193847656,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+55.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Company F
+(d) Others",(d),0.9260392189025879,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+111.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 33%
+(d) 25%",(b),0.539053201675415,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+185.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,1.108389139175415,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+9.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 50%
+(d) 33%",(b),1.0157291889190674,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+163.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7041671276092529,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+206.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Others
+(d) Company E",(c),0.7107210159301758,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+102.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Company F
+(d) Others",(d),0.7881190776824951,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+67.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 25%
+(d) 50%",(b),0.6523051261901855,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+123.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company F
+(d) Company C",(b),0.6614859104156494,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+81.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 50%
+(d) 33%",(a),0.6387929916381836,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+219.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company F
+(d) Company E",(a),0.9994847774505615,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+15.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7873678207397461,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+341.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7712070941925049,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+278.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.7022721767425537,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+333.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 50%
+(d) 25%",(b),1.3707478046417236,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+251.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 50%
+(d) 15%",(b),0.7825250625610352,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+289.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 25%
+(d) 15%",(c) 25%,0.9309587478637695,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+223.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.5166871547698975,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+178.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company E
+(d) Company C",(a),0.7878191471099854,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+252.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.741203784942627,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+95.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 15%
+(d) 25%",(c),0.6149439811706543,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+109.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company F
+(d) Company C",(b) Company E,0.9358170032501221,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+73.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 15%
+(d) 25%",(b),0.9067709445953369,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+82.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.5288031101226807,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+141.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 25%
+(d) 15%",(b),0.8062326908111572,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+342.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 50%
+(d) 25%",(d),0.7781381607055664,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+133.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7605283260345459,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+245.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 33%
+(d) 50%",(b),0.6195619106292725,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+112.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7869882583618164,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+311.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6059191226959229,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+24.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company E
+(d) Company C",(b),0.91867995262146,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+37.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 50%
+(d) 15%",(b),0.8763811588287354,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+315.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Others
+(d) Company F",(c),0.6024560928344727,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+295.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.8479602336883545,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+273.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6982519626617432,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+99.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7216110229492188,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+41.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8292958736419678,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+20.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Others
+(d) Company F",(c),0.9240148067474365,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+212.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.8310449123382568,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+291.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.946721076965332,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+45.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company C
+(d) Company E",(b),0.5418670177459717,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+249.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.5157852172851562,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+173.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7790567874908447,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+195.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),1.523439884185791,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+228.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company F
+(d) Company E",(a),0.6999139785766602,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+68.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 25%
+(d) 50%",(b),0.790132999420166,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+330.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company E
+(d) Company F",(b) Company C,0.7187447547912598,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+77.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 50%
+(d) 25%",(b),1.008310079574585,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+351.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9219348430633545,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+6.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 33%
+(d) 15%",(d),0.7851207256317139,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+120.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 50%
+(d) 25%",(d) 25%,0.9087319374084473,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+64.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company F
+(d) Company E",(a),1.0873630046844482,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+256.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6116809844970703,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+268.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7340390682220459,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+299.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 25%
+(d) 33%",(a),0.696770191192627,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+241.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 50%
+(d) 15%",(b),0.9193181991577148,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+145.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 33%
+(d) 50%",(b),0.8319680690765381,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+233.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8053798675537109,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+156.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Company C
+(d) Others",(d),0.9032309055328369,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+168.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company F
+(d) Company E",(a),0.852755069732666,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+355.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company E
+(d) Company F",(b),0.8109743595123291,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+12.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 50%
+(d) 15%",(b),0.7143402099609375,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+86.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7932212352752686,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+60.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,1.1389751434326172,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+134.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 33%
+(d) 15%",(d),0.6679658889770508,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+96.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Company E
+(d) Others",(d),1.017394781112671,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+230.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 50%
+(d) 33%",(b),0.6708300113677979,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+345.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8320188522338867,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+146.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7015972137451172,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+63.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 25%
+(d) 15%",(d),0.7951700687408447,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+324.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company C
+(d) Company E",(a),0.507047176361084,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+127.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Others
+(d) Company C",(c),1.2375118732452393,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+246.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Company F
+(d) Others",(d),0.6119742393493652,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+74.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),1.5227129459381104,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+92.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.817742109298706,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+227.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8823323249816895,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+189.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 50%
+(d) 15%",(b),0.7636559009552002,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+352.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 50%
+(d) 15%",(b),0.6057279109954834,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+151.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 50%
+(d) 25%",(b),0.656879186630249,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+5.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9184536933898926,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+301.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.8626978397369385,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+259.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company E
+(d) Company F",(a),0.6566321849822998,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+281.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Others
+(d) Company F",(c),0.5432958602905273,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+106.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Others
+(d) Company F",(c),0.7383518218994141,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+181.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8193252086639404,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+167.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6586906909942627,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+159.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6929879188537598,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+89.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Others
+(d) Company C",(c),0.5717129707336426,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+337.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Company E
+(d) Others",(d),0.6644880771636963,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+70.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 33%
+(d) 50%",(b),0.818605899810791,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+1.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 15%
+(d) 50%",(c),0.7338180541992188,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+119.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 25%
+(d) 33%",(b),0.7175242900848389,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+142.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 33%
+(d) 50%",(b),0.9154770374298096,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+234.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9333231449127197,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+59.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,1.0466809272766113,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+274.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Others
+(d) Company F",(c),1.093290090560913,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+46.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.5908269882202148,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+170.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company E
+(d) Company C",(a),0.8524060249328613,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+196.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company E
+(d) Company F",(b),0.9037380218505859,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+34.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 50%
+(d) 15%",(b),1.0178008079528809,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+27.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Others
+(d) Company F",(c),1.1593220233917236,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+267.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 33%
+(d) 25%",(c),0.7612779140472412,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+305.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 15%
+(d) 33%",(c) 15%,0.9824519157409668,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+42.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company F
+(d) Company C",(b),0.5851621627807617,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+211.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company C
+(d) Company E",(b),0.6186561584472656,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+316.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company C
+(d) Company E",(a),0.6148228645324707,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+328.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company F
+(d) Company C",(b),0.9354250431060791,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+115.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Company C
+(d) Others",(d),0.8000481128692627,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+51.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 25%
+(d) 50%",(a),0.5353548526763916,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+105.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.5507950782775879,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+338.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7188360691070557,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+306.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8017170429229736,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+191.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 25%
+(d) 15%",(d) 15%,0.7119021415710449,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+149.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 15%
+(d) 25%",(c) 15%,0.859731912612915,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+177.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 15%
+(d) 50%",(b),0.6654000282287598,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+182.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Company C
+(d) Others",(d),0.6537768840789795,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+52.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),2.6871471405029297,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+260.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company E
+(c) Company F
+(d) Others",(d) Others,1.0893261432647705,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+286.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Company E
+(d) Others",(d),0.6165289878845215,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+302.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company E
+(d) Company F",(a),0.666388988494873,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+101.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Others
+(d) Company E",(c),0.5388491153717041,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+205.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Company E
+(d) Others",(d) Others,0.5122833251953125,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+216.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 15%
+(d) 33%",(c) 15%,0.7578928470611572,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+186.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),1.2458629608154297,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+56.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company E
+(d) Company C",(b),0.8336482048034668,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+264.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6350736618041992,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+91.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company C
+(d) Company F",(b),0.6397559642791748,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+237.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 15%
+(d) 25%",(b),0.8258891105651855,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+209.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 15%
+(d) 50%",(b),0.6687428951263428,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+28.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8188130855560303,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+224.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company C
+(d) Company E",(b),0.6114170551300049,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+323.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company E
+(d) Company C",(a),0.618718147277832,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+124.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.8342101573944092,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+327.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Others
+(d) Company E",(c),0.894711971282959,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+319.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Others
+(d) Company E",(c),0.6230437755584717,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+220.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company F
+(d) Company C",(b),0.8235127925872803,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+2.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company C
+(d) Company F",(b),0.7360401153564453,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+346.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.7166659832000732,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+137.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 25%
+(d) 50%",(b),0.8574018478393555,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+334.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 50%
+(d) 33%",(b),0.7098789215087891,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+16.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Others
+(d) Company C",(c),0.8057451248168945,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+152.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 25%
+(d) 15%",(b),0.873100996017456,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+199.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Others
+(d) Company E",(c),1.7490930557250977,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+49.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.5795907974243164,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+282.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company C
+(d) Company F",(a),0.5778768062591553,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+160.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company C
+(d) Company F",(b) Company E,1.0020151138305664,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+277.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 25%
+(d) 50%",(b),0.7309119701385498,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+128.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 50%
+(d) 25%",(b),0.7123830318450928,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+116.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 25%
+(d) 33%",(b),0.679610013961792,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+164.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7733068466186523,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+359.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6022160053253174,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+33.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.5765268802642822,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+201.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Company F
+(d) Others",(d),0.7109098434448242,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+285.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 33%
+(d) 25%",(b),0.5837998390197754,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+23.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company C
+(c) Others
+(d) Company E",(c),0.9245409965515137,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+349.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company F
+(d) Company E",(b),0.6464388370513916,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+174.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company F
+(d) Company C",(b) Company E,0.8426778316497803,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+296.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Others
+(d) Company E",(c),0.6170799732208252,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+270.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company C
+(d) Company E",(b),0.8016579151153564,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+312.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Others
+(d) Company E",(c),0.5560991764068604,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+215.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Company E
+(d) Others",(d),0.5925769805908203,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+19.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.827826976776123,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+238.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 15%
+(d) 50%",(b),0.7134609222412109,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+292.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6094663143157959,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+78.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Others
+(d) Company C",(c),0.521613597869873,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+320.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 50%
+(d) 25%",(b),0.5814101696014404,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+255.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7143337726593018,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+38.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.8004066944122314,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+130.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company C
+(d) Company F",(b) Company E,0.9565329551696777,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+85.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8024430274963379,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+155.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company C
+(d) Company E",(a),0.8026323318481445,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+356.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company C
+(d) Company E",(b),0.5358831882476807,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+11.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 33%
+(d) 15%",(d),1.0210511684417725,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+309.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6240460872650146,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+242.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 25%
+(d) 33%",(b) 15%,0.9181227684020996,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+329.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Others
+(d) Company C",(c),0.5473508834838867,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+43.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company E
+(d) Company C",(b),0.9471421241760254,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+271.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7959918975830078,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+297.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6264910697937012,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+139.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 50%
+(d) 25%",(a),0.7416040897369385,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+304.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 33%
+(d) 50%",(b),0.7828989028930664,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+193.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",b,0.5866069793701172,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+348.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9162578582763672,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+184.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 15%
+(d) 33%",(c),0.8326828479766846,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+266.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 33%
+(d) 25%",(b),0.8729779720306396,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+110.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.6873831748962402,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+280.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 33%
+(d) 15%",(d),0.5538740158081055,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+47.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6406800746917725,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+35.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 15%
+(d) 33%",(b),1.8743500709533691,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+171.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Others
+(d) Company F",(c),0.5590577125549316,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+58.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7662398815155029,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+66.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,2.332504987716675,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+254.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company F
+(d) Company E",(a),0.8118438720703125,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+279.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 33%
+(c) 15%
+(d) 25%",(c) 15%,0.7548801898956299,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+39.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Company E
+(d) Others",(d),0.8794031143188477,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+154.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.622398853302002,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+357.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.684333086013794,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+0.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 15%
+(d) 33%",(b),0.891005277633667,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+250.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),2.547539234161377,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+288.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.5960402488708496,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+84.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Others
+(d) Company E",(c),0.7372989654541016,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+126.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 25%
+(d) 50%",(b),0.6384708881378174,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+71.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 33%
+(d) 15%",(d),2.982542037963867,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+3.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.7806060314178467,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+326.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.6227741241455078,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+318.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.6963200569152832,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+94.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.7320132255554199,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+347.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company C
+(d) Company E",(b),1.0157742500305176,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+144.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company F
+(c) Company E
+(d) Company C",(a),0.600034236907959,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+7.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company C
+(d) Company F",(b),0.7688400745391846,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+90.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Company C
+(d) Others",(d),0.5613110065460205,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+343.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.5756528377532959,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+198.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.8200480937957764,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+187.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9305741786956787,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+229.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 33%
+(d) 15%",(d),0.7732279300689697,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+265.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9008190631866455,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+69.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Company C
+(d) Others",(d),0.9067730903625488,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+57.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company E
+(d) Company F",(b),0.7102329730987549,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+303.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company E
+(d) Company F",(b),1.0112709999084473,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+100.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Company C
+(d) Others",(d),0.6292159557342529,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+36.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9368700981140137,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+358.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company E
+(c) Company F
+(d) Company C",(b) Company E,0.8182070255279541,True,find extremum,reVLAT_NoViz+Choices,ChatGPT
+21.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 33%
+(d) 25%",(b),0.6500511169433594,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+53.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.9281439781188965,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+294.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 50%
+(d) 33%",(b),0.593785285949707,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+148.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 50%
+(d) 15%",(b),0.7808566093444824,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+176.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 25%
+(d) 15%",(c) 25%,0.6388800144195557,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+200.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6039712429046631,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+104.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company C
+(c) Company F
+(d) Others",(d),1.0994892120361328,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+307.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Others
+(c) Company E
+(d) Company C",(b),0.9257252216339111,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+261.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,1.4125587940216064,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+290.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 15%
+(d) 50%",(b),0.5670580863952637,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+276.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 33%
+(d) 25%",(c),0.7793831825256348,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+161.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company F
+(d) Company E",(b),0.5642740726470947,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+25.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 50%
+(c) 33%
+(d) 15%",(d) 15%,0.9180049896240234,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+76.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.8254380226135254,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+322.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.809870719909668,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+269.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 50%
+(d) 25%",(b),0.6248528957366943,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+153.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 50%
+(d) 15%",(b),0.7712247371673584,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+225.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),0.9189901351928711,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+17.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company C
+(d) Company F",(b),0.8345761299133301,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+232.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 15%
+(d) 25%",(c),0.7381110191345215,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+108.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 33%
+(d) 25%",(b),1.2863378524780273,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+240.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.7759881019592285,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+72.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Company C
+(d) Others",(d),0.9275641441345215,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+61.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 15%
+(c) 33%
+(d) 25%",(b) 15%,1.0386641025543213,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+221.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company F
+(b) Company E
+(c) Company C
+(d) Others",(d),0.7720332145690918,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+13.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.9279122352600098,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+344.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 25%
+(c) 50%
+(d) 15%",(d),0.6934709548950195,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+62.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.8652331829071045,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+10.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 25%
+(d) 15%",(c) 25%,0.8277571201324463,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+235.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Others
+(c) Company F
+(d) Company C",(b),0.593026876449585,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+93.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 15%
+(c) 33%
+(d) 50%",(c),1.039607048034668,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+122.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 50%
+(d) 33%",(a),0.636707067489624,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+321.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 50%
+(d) 25%",(b),0.5490250587463379,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+80.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Company F
+(c) Company E
+(d) Others",(d),0.6021361351013184,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+218.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 25%
+(c) 50%
+(d) 33%",(b),0.9240410327911377,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+353.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b),1.5600180625915527,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+4.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 15%
+(c) 25%
+(d) 50%",(c),0.8183708190917969,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+207.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 50%
+(c) 33%
+(d) 25%",(d),0.8241710662841797,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+79.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Others
+(b) Company C
+(c) Company E
+(d) Company F",(b) Company C,1.03739595413208,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+293.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) False
+(b) True",(b) True,0.6480231285095215,True,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+300.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 50%
+(b) 25%
+(c) 33%
+(d) 15%",(d),0.7272970676422119,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+103.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 25%
+(d) 50%",(b),0.5413410663604736,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+54.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 25%
+(b) 33%
+(c) 15%
+(d) 50%",(b),0.8884940147399902,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+214.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company E
+(b) Company F
+(c) Company C
+(d) Others",(d),1.2239501476287842,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+175.0,Pie Chart,2,In which company is the global company market share the smallest?,Company E,Find Extremum (relative value),"In which company is the global company market share the smallest?
+
+(a) Company C
+(b) Others
+(c) Company F
+(d) Company E",(b),0.7158780097961426,False,find extremum,reVLAT_NoViz+Choices,ChatGPT
+317.0,Pie Chart,3,The global compnay market share of Company B is larger than that of Company E.,True,Make Comparisons (relative value),"The global compnay market share of Company B is larger than that of Company E.
+
+(a) True
+(b) False",(b),0.6306331157684326,False,make comparisons,reVLAT_NoViz+Choices,ChatGPT
+180.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 33%
+(b) 50%
+(c) 15%
+(d) 25%",(d),0.8005390167236328,False,retrieve value,reVLAT_NoViz+Choices,ChatGPT
+158.0,Pie Chart,1,About what is the global smartphone market share of Company A?,33%,Retrieve Value (relative value),"About what is the global smartphone market share of Company A?
+
+(a) 15%
+(b) 33%
+(c) 25%
+(d) 50%",(b),0.6450588703155518,True,retrieve value,reVLAT_NoViz+Choices,ChatGPT

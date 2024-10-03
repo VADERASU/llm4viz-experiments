@@ -1,0 +1,213 @@
+chartType,qNum,qType,qType_simple,numCorr,totalNum,percentCorr,expType,LLM
+Line Chart,1,Retrieve Value,retrieve value,67.0,120.0,0.5583333333333333,reVLAT_Viz+Choices,ChatGPT
+Line Chart,2,Find Extremum,find extremum,2.0,120.0,0.016666666666666666,reVLAT_Viz+Choices,ChatGPT
+Line Chart,3,Determine Range,determine range,28.0,120.0,0.23333333333333334,reVLAT_Viz+Choices,ChatGPT
+Line Chart,4,Find Correlations/Trends,find correlations/trends,104.0,120.0,0.8666666666666667,reVLAT_Viz+Choices,ChatGPT
+Line Chart,5,Make Comparisons,make comparisons,39.0,120.0,0.325,reVLAT_Viz+Choices,ChatGPT
+Bar Chart,1,Retrieve Value,retrieve value,48.0,120.0,0.4,reVLAT_Viz+Choices,ChatGPT
+Bar Chart,2,Find Extremum,find extremum,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Bar Chart,3,Determine Range,determine range,35.0,120.0,0.2916666666666667,reVLAT_Viz+Choices,ChatGPT
+Bar Chart,4,Make Comparisons,make comparisons,24.0,120.0,0.2,reVLAT_Viz+Choices,ChatGPT
+Stacked Bar Chart,1,Retrieve Value (absolute value),retrieve value,27.0,120.0,0.225,reVLAT_Viz+Choices,ChatGPT
+Stacked Bar Chart,2,Retrieve Value (relative value),retrieve value,5.0,120.0,0.041666666666666664,reVLAT_Viz+Choices,ChatGPT
+Stacked Bar Chart,3,Find Extremum,find extremum,20.0,120.0,0.16666666666666666,reVLAT_Viz+Choices,ChatGPT
+Stacked Bar Chart,4,Make Comparisons (absolute value),make comparisons,84.0,120.0,0.7,reVLAT_Viz+Choices,ChatGPT
+Stacked Bar Chart,5,Make Comparisons (relative value),make comparisons,113.0,120.0,0.9416666666666667,reVLAT_Viz+Choices,ChatGPT
+100% Stacked Bar Chart,1,Retrieve value (relative value),retrieve value,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+100% Stacked Bar Chart,2,Find Extremum (relative value),find extremum,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+100% Stacked Bar Chart,3,Make Comparisons (relative value),make comparisons,18.0,120.0,0.15,reVLAT_Viz+Choices,ChatGPT
+Pie Chart,1,Retrieve Value (relative value),retrieve value,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Pie Chart,2,Find Extremum (relative value),find extremum,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Pie Chart,3,Make Comparisons (relative value),make comparisons,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Histogram,1,Retrieve value (derived value),retrieve value,46.0,120.0,0.38333333333333336,reVLAT_Viz+Choices,ChatGPT
+Histogram,2,Find Extremum (derived value),find extremum,7.0,120.0,0.058333333333333334,reVLAT_Viz+Choices,ChatGPT
+Histogram,3,Make Comparisons (derived value),make comparisons,107.0,120.0,0.8916666666666667,reVLAT_Viz+Choices,ChatGPT
+Scatterplot,1,Retrieve Value,retrieve value,24.0,120.0,0.2,reVLAT_Viz+Choices,ChatGPT
+Scatterplot,2,Find Extremum,find extremum,102.0,120.0,0.85,reVLAT_Viz+Choices,ChatGPT
+Scatterplot,3,Determine Range,determine range,103.0,120.0,0.8583333333333333,reVLAT_Viz+Choices,ChatGPT
+Scatterplot,4,Find Anomalies,find anomalies,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Scatterplot,5,Find Clusters,find clusters,7.0,120.0,0.058333333333333334,reVLAT_Viz+Choices,ChatGPT
+Scatterplot,6,Find Correlations/Trends,find correlations/trends,120.0,120.0,1.0,reVLAT_Viz+Choices,ChatGPT
+Scatterplot,7,Make Comparisons,make comparisons,120.0,120.0,1.0,reVLAT_Viz+Choices,ChatGPT
+Bubble Chart,1,Retrieve Value,retrieve value,2.0,120.0,0.016666666666666666,reVLAT_Viz+Choices,ChatGPT
+Bubble Chart,2,Find extremum,find extremum,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Bubble Chart,3,Determine range,determine range,30.0,120.0,0.25,reVLAT_Viz+Choices,ChatGPT
+Bubble Chart,4,Find anomalies,find anomalies,63.0,120.0,0.525,reVLAT_Viz+Choices,ChatGPT
+Bubble Chart,5,Find clusters,find clusters,46.0,120.0,0.38333333333333336,reVLAT_Viz+Choices,ChatGPT
+Bubble Chart,6,Find correlations/trends,find correlations/trends,111.0,120.0,0.925,reVLAT_Viz+Choices,ChatGPT
+Bubble Chart,7,Make comparisons,make comparisons,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Area Chart,1,Retrieve Value,retrieve value,33.0,120.0,0.275,reVLAT_Viz+Choices,ChatGPT
+Area Chart,2,Find Extremum,find extremum,68.0,120.0,0.5666666666666667,reVLAT_Viz+Choices,ChatGPT
+Area Chart,3,Determine Range,determine range,28.0,120.0,0.23333333333333334,reVLAT_Viz+Choices,ChatGPT
+Area Chart,4,Find Correlations/Trends,find correlations/trends,120.0,120.0,1.0,reVLAT_Viz+Choices,ChatGPT
+Stacked Area Chart,1,Retrieve Value (absolute value),retrieve value,43.0,120.0,0.35833333333333334,reVLAT_Viz+Choices,ChatGPT
+Stacked Area Chart,2,Retrieve Value (relative value),retrieve value,20.0,120.0,0.16666666666666666,reVLAT_Viz+Choices,ChatGPT
+Stacked Area Chart,3,Find Extremum,find extremum,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Stacked Area Chart,4,Find Correlations/Trends,find correlations/trends,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Stacked Area Chart,5,Make Comparisons (absolute value),make comparisons,61.0,120.0,0.5083333333333333,reVLAT_Viz+Choices,ChatGPT
+Stacked Area Chart,6,Make Comparisons (relative value),make comparisons,120.0,120.0,1.0,reVLAT_Viz+Choices,ChatGPT
+Choropleth Map,1,Retrieve Value,retrieve value,0.0,120.0,0.0,reVLAT_Viz+Choices,ChatGPT
+Choropleth Map,2,Find Extremum,find extremum,112.0,120.0,0.9333333333333333,reVLAT_Viz+Choices,ChatGPT
+Choropleth Map,3,Make Comparisons,make comparisons,96.0,120.0,0.8,reVLAT_Viz+Choices,ChatGPT
+Treemap,1,Find Extremum (relative value),find extremum,1.0,120.0,0.008333333333333333,reVLAT_Viz+Choices,ChatGPT
+Treemap,2,Make Comparisons (relative value),make comparisons,3.0,120.0,0.025,reVLAT_Viz+Choices,ChatGPT
+Treemap,3,Identify the Hierarchical Structure,identify the hierarchical structure,120.0,120.0,1.0,reVLAT_Viz+Choices,ChatGPT
+Line Chart,1,Retrieve Value,retrieve value,52.0,120.0,0.43333333333333335,reVLAT_NoViz+Choices,ChatGPT
+Line Chart,2,Find Extremum,find extremum,4.0,120.0,0.03333333333333333,reVLAT_NoViz+Choices,ChatGPT
+Line Chart,3,Determine Range,determine range,62.0,120.0,0.5166666666666667,reVLAT_NoViz+Choices,ChatGPT
+Line Chart,4,Find Correlations/Trends,find correlations/trends,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Line Chart,5,Make Comparisons,make comparisons,28.0,120.0,0.23333333333333334,reVLAT_NoViz+Choices,ChatGPT
+Bar Chart,1,Retrieve Value,retrieve value,31.0,120.0,0.25833333333333336,reVLAT_NoViz+Choices,ChatGPT
+Bar Chart,2,Find Extremum,find extremum,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Bar Chart,3,Determine Range,determine range,45.0,120.0,0.375,reVLAT_NoViz+Choices,ChatGPT
+Bar Chart,4,Make Comparisons,make comparisons,39.0,120.0,0.325,reVLAT_NoViz+Choices,ChatGPT
+Stacked Bar Chart,1,Retrieve Value (absolute value),retrieve value,43.0,120.0,0.35833333333333334,reVLAT_NoViz+Choices,ChatGPT
+Stacked Bar Chart,2,Retrieve Value (relative value),retrieve value,28.0,120.0,0.23333333333333334,reVLAT_NoViz+Choices,ChatGPT
+Stacked Bar Chart,3,Find Extremum,find extremum,55.0,120.0,0.4583333333333333,reVLAT_NoViz+Choices,ChatGPT
+Stacked Bar Chart,4,Make Comparisons (absolute value),make comparisons,105.0,120.0,0.875,reVLAT_NoViz+Choices,ChatGPT
+Stacked Bar Chart,5,Make Comparisons (relative value),make comparisons,61.0,120.0,0.5083333333333333,reVLAT_NoViz+Choices,ChatGPT
+100% Stacked Bar Chart,1,Retrieve value (relative value),retrieve value,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+100% Stacked Bar Chart,2,Find Extremum (relative value),find extremum,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+100% Stacked Bar Chart,3,Make Comparisons (relative value),make comparisons,12.0,120.0,0.1,reVLAT_NoViz+Choices,ChatGPT
+Pie Chart,1,Retrieve Value (relative value),retrieve value,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Pie Chart,2,Find Extremum (relative value),find extremum,116.0,120.0,0.9666666666666667,reVLAT_NoViz+Choices,ChatGPT
+Pie Chart,3,Make Comparisons (relative value),make comparisons,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Histogram,1,Retrieve value (derived value),retrieve value,36.0,120.0,0.3,reVLAT_NoViz+Choices,ChatGPT
+Histogram,2,Find Extremum (derived value),find extremum,1.0,120.0,0.008333333333333333,reVLAT_NoViz+Choices,ChatGPT
+Histogram,3,Make Comparisons (derived value),make comparisons,41.0,120.0,0.3416666666666667,reVLAT_NoViz+Choices,ChatGPT
+Scatterplot,1,Retrieve Value,retrieve value,42.0,120.0,0.35,reVLAT_NoViz+Choices,ChatGPT
+Scatterplot,2,Find Extremum,find extremum,117.0,120.0,0.975,reVLAT_NoViz+Choices,ChatGPT
+Scatterplot,3,Determine Range,determine range,99.0,120.0,0.825,reVLAT_NoViz+Choices,ChatGPT
+Scatterplot,4,Find Anomalies,find anomalies,3.0,120.0,0.025,reVLAT_NoViz+Choices,ChatGPT
+Scatterplot,5,Find Clusters,find clusters,71.0,120.0,0.5916666666666667,reVLAT_NoViz+Choices,ChatGPT
+Scatterplot,6,Find Correlations/Trends,find correlations/trends,117.0,120.0,0.975,reVLAT_NoViz+Choices,ChatGPT
+Scatterplot,7,Make Comparisons,make comparisons,120.0,120.0,1.0,reVLAT_NoViz+Choices,ChatGPT
+Bubble Chart,1,Retrieve Value,retrieve value,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Bubble Chart,2,Find extremum,find extremum,3.0,120.0,0.025,reVLAT_NoViz+Choices,ChatGPT
+Bubble Chart,3,Determine range,determine range,2.0,120.0,0.016666666666666666,reVLAT_NoViz+Choices,ChatGPT
+Bubble Chart,4,Find anomalies,find anomalies,24.0,120.0,0.2,reVLAT_NoViz+Choices,ChatGPT
+Bubble Chart,5,Find clusters,find clusters,82.0,120.0,0.6833333333333333,reVLAT_NoViz+Choices,ChatGPT
+Bubble Chart,6,Find correlations/trends,find correlations/trends,120.0,120.0,1.0,reVLAT_NoViz+Choices,ChatGPT
+Bubble Chart,7,Make comparisons,make comparisons,3.0,120.0,0.025,reVLAT_NoViz+Choices,ChatGPT
+Area Chart,1,Retrieve Value,retrieve value,31.0,120.0,0.25833333333333336,reVLAT_NoViz+Choices,ChatGPT
+Area Chart,2,Find Extremum,find extremum,65.0,120.0,0.5416666666666666,reVLAT_NoViz+Choices,ChatGPT
+Area Chart,3,Determine Range,determine range,34.0,120.0,0.2833333333333333,reVLAT_NoViz+Choices,ChatGPT
+Area Chart,4,Find Correlations/Trends,find correlations/trends,120.0,120.0,1.0,reVLAT_NoViz+Choices,ChatGPT
+Stacked Area Chart,1,Retrieve Value (absolute value),retrieve value,50.0,120.0,0.4166666666666667,reVLAT_NoViz+Choices,ChatGPT
+Stacked Area Chart,2,Retrieve Value (relative value),retrieve value,1.0,120.0,0.008333333333333333,reVLAT_NoViz+Choices,ChatGPT
+Stacked Area Chart,3,Find Extremum,find extremum,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Stacked Area Chart,4,Find Correlations/Trends,find correlations/trends,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Stacked Area Chart,5,Make Comparisons (absolute value),make comparisons,113.0,120.0,0.9416666666666667,reVLAT_NoViz+Choices,ChatGPT
+Stacked Area Chart,6,Make Comparisons (relative value),make comparisons,119.0,120.0,0.9916666666666667,reVLAT_NoViz+Choices,ChatGPT
+Choropleth Map,1,Retrieve Value,retrieve value,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Choropleth Map,2,Find Extremum,find extremum,110.0,120.0,0.9166666666666666,reVLAT_NoViz+Choices,ChatGPT
+Choropleth Map,3,Make Comparisons,make comparisons,76.0,120.0,0.6333333333333333,reVLAT_NoViz+Choices,ChatGPT
+Treemap,1,Find Extremum (relative value),find extremum,0.0,120.0,0.0,reVLAT_NoViz+Choices,ChatGPT
+Treemap,2,Make Comparisons (relative value),make comparisons,55.0,120.0,0.4583333333333333,reVLAT_NoViz+Choices,ChatGPT
+Treemap,3,Identify the Hierarchical Structure,identify the hierarchical structure,90.0,120.0,0.75,reVLAT_NoViz+Choices,ChatGPT
+Line Chart,1,Retrieve Value,retrieve value,30.0,120.0,0.25,reVLAT_Viz+Choices,Gemini
+Line Chart,2,Find Extremum,find extremum,26.0,120.0,0.21666666666666667,reVLAT_Viz+Choices,Gemini
+Line Chart,3,Determine Range,determine range,27.0,120.0,0.225,reVLAT_Viz+Choices,Gemini
+Line Chart,4,Find Correlations/Trends,find correlations/trends,50.0,120.0,0.4166666666666667,reVLAT_Viz+Choices,Gemini
+Line Chart,5,Make Comparisons,make comparisons,34.0,120.0,0.2833333333333333,reVLAT_Viz+Choices,Gemini
+Bar Chart,1,Retrieve Value,retrieve value,67.0,120.0,0.5583333333333333,reVLAT_Viz+Choices,Gemini
+Bar Chart,2,Find Extremum,find extremum,1.0,120.0,0.008333333333333333,reVLAT_Viz+Choices,Gemini
+Bar Chart,3,Determine Range,determine range,82.0,120.0,0.6833333333333333,reVLAT_Viz+Choices,Gemini
+Bar Chart,4,Make Comparisons,make comparisons,15.0,120.0,0.125,reVLAT_Viz+Choices,Gemini
+Stacked Bar Chart,1,Retrieve Value (absolute value),retrieve value,30.0,120.0,0.25,reVLAT_Viz+Choices,Gemini
+Stacked Bar Chart,2,Retrieve Value (relative value),retrieve value,28.0,120.0,0.23333333333333334,reVLAT_Viz+Choices,Gemini
+Stacked Bar Chart,3,Find Extremum,find extremum,6.0,120.0,0.05,reVLAT_Viz+Choices,Gemini
+Stacked Bar Chart,4,Make Comparisons (absolute value),make comparisons,94.0,120.0,0.7833333333333333,reVLAT_Viz+Choices,Gemini
+Stacked Bar Chart,5,Make Comparisons (relative value),make comparisons,51.0,120.0,0.425,reVLAT_Viz+Choices,Gemini
+100% Stacked Bar Chart,1,Retrieve value (relative value),retrieve value,95.0,120.0,0.7916666666666666,reVLAT_Viz+Choices,Gemini
+100% Stacked Bar Chart,2,Find Extremum (relative value),find extremum,25.0,120.0,0.20833333333333334,reVLAT_Viz+Choices,Gemini
+100% Stacked Bar Chart,3,Make Comparisons (relative value),make comparisons,117.0,120.0,0.975,reVLAT_Viz+Choices,Gemini
+Pie Chart,1,Retrieve Value (relative value),retrieve value,43.0,120.0,0.35833333333333334,reVLAT_Viz+Choices,Gemini
+Pie Chart,2,Find Extremum (relative value),find extremum,36.0,120.0,0.3,reVLAT_Viz+Choices,Gemini
+Pie Chart,3,Make Comparisons (relative value),make comparisons,52.0,120.0,0.43333333333333335,reVLAT_Viz+Choices,Gemini
+Histogram,1,Retrieve value (derived value),retrieve value,22.0,120.0,0.18333333333333332,reVLAT_Viz+Choices,Gemini
+Histogram,2,Find Extremum (derived value),find extremum,15.0,120.0,0.125,reVLAT_Viz+Choices,Gemini
+Histogram,3,Make Comparisons (derived value),make comparisons,0.0,120.0,0.0,reVLAT_Viz+Choices,Gemini
+Scatterplot,1,Retrieve Value,retrieve value,59.0,120.0,0.49166666666666664,reVLAT_Viz+Choices,Gemini
+Scatterplot,2,Find Extremum,find extremum,120.0,120.0,1.0,reVLAT_Viz+Choices,Gemini
+Scatterplot,3,Determine Range,determine range,91.0,120.0,0.7583333333333333,reVLAT_Viz+Choices,Gemini
+Scatterplot,4,Find Anomalies,find anomalies,0.0,120.0,0.0,reVLAT_Viz+Choices,Gemini
+Scatterplot,5,Find Clusters,find clusters,60.0,120.0,0.5,reVLAT_Viz+Choices,Gemini
+Scatterplot,6,Find Correlations/Trends,find correlations/trends,0.0,120.0,0.0,reVLAT_Viz+Choices,Gemini
+Scatterplot,7,Make Comparisons,make comparisons,120.0,120.0,1.0,reVLAT_Viz+Choices,Gemini
+Bubble Chart,1,Retrieve Value,retrieve value,18.0,120.0,0.15,reVLAT_Viz+Choices,Gemini
+Bubble Chart,2,Find extremum,find extremum,13.0,120.0,0.10833333333333334,reVLAT_Viz+Choices,Gemini
+Bubble Chart,3,Determine range,determine range,31.0,120.0,0.25833333333333336,reVLAT_Viz+Choices,Gemini
+Bubble Chart,4,Find anomalies,find anomalies,7.0,120.0,0.058333333333333334,reVLAT_Viz+Choices,Gemini
+Bubble Chart,5,Find clusters,find clusters,57.0,120.0,0.475,reVLAT_Viz+Choices,Gemini
+Bubble Chart,6,Find correlations/trends,find correlations/trends,120.0,120.0,1.0,reVLAT_Viz+Choices,Gemini
+Bubble Chart,7,Make comparisons,make comparisons,11.0,120.0,0.09166666666666666,reVLAT_Viz+Choices,Gemini
+Area Chart,1,Retrieve Value,retrieve value,16.0,120.0,0.13333333333333333,reVLAT_Viz+Choices,Gemini
+Area Chart,2,Find Extremum,find extremum,87.0,120.0,0.725,reVLAT_Viz+Choices,Gemini
+Area Chart,3,Determine Range,determine range,15.0,120.0,0.125,reVLAT_Viz+Choices,Gemini
+Area Chart,4,Find Correlations/Trends,find correlations/trends,120.0,120.0,1.0,reVLAT_Viz+Choices,Gemini
+Stacked Area Chart,1,Retrieve Value (absolute value),retrieve value,42.0,120.0,0.35,reVLAT_Viz+Choices,Gemini
+Stacked Area Chart,2,Retrieve Value (relative value),retrieve value,36.0,120.0,0.3,reVLAT_Viz+Choices,Gemini
+Stacked Area Chart,3,Find Extremum,find extremum,1.0,120.0,0.008333333333333333,reVLAT_Viz+Choices,Gemini
+Stacked Area Chart,4,Find Correlations/Trends,find correlations/trends,86.0,120.0,0.7166666666666667,reVLAT_Viz+Choices,Gemini
+Stacked Area Chart,5,Make Comparisons (absolute value),make comparisons,119.0,120.0,0.9916666666666667,reVLAT_Viz+Choices,Gemini
+Stacked Area Chart,6,Make Comparisons (relative value),make comparisons,120.0,120.0,1.0,reVLAT_Viz+Choices,Gemini
+Choropleth Map,1,Retrieve Value,retrieve value,0.0,120.0,0.0,reVLAT_Viz+Choices,Gemini
+Choropleth Map,2,Find Extremum,find extremum,86.0,120.0,0.7166666666666667,reVLAT_Viz+Choices,Gemini
+Choropleth Map,3,Make Comparisons,make comparisons,0.0,120.0,0.0,reVLAT_Viz+Choices,Gemini
+Treemap,1,Find Extremum (relative value),find extremum,0.0,120.0,0.0,reVLAT_Viz+Choices,Gemini
+Treemap,2,Make Comparisons (relative value),make comparisons,63.0,120.0,0.525,reVLAT_Viz+Choices,Gemini
+Treemap,3,Identify the Hierarchical Structure,identify the hierarchical structure,0.0,120.0,0.0,reVLAT_Viz+Choices,Gemini
+Line Chart,1,Retrieve Value,retrieve value,34.0,120.0,0.2833333333333333,reVLAT_NoViz+Choices,Gemini
+Line Chart,2,Find Extremum,find extremum,26.0,120.0,0.21666666666666667,reVLAT_NoViz+Choices,Gemini
+Line Chart,3,Determine Range,determine range,30.0,120.0,0.25,reVLAT_NoViz+Choices,Gemini
+Line Chart,4,Find Correlations/Trends,find correlations/trends,6.0,120.0,0.05,reVLAT_NoViz+Choices,Gemini
+Line Chart,5,Make Comparisons,make comparisons,24.0,120.0,0.2,reVLAT_NoViz+Choices,Gemini
+Bar Chart,1,Retrieve Value,retrieve value,69.0,120.0,0.575,reVLAT_NoViz+Choices,Gemini
+Bar Chart,2,Find Extremum,find extremum,3.0,120.0,0.025,reVLAT_NoViz+Choices,Gemini
+Bar Chart,3,Determine Range,determine range,91.0,120.0,0.7583333333333333,reVLAT_NoViz+Choices,Gemini
+Bar Chart,4,Make Comparisons,make comparisons,30.0,120.0,0.25,reVLAT_NoViz+Choices,Gemini
+Stacked Bar Chart,1,Retrieve Value (absolute value),retrieve value,29.0,120.0,0.24166666666666667,reVLAT_NoViz+Choices,Gemini
+Stacked Bar Chart,2,Retrieve Value (relative value),retrieve value,42.0,120.0,0.35,reVLAT_NoViz+Choices,Gemini
+Stacked Bar Chart,3,Find Extremum,find extremum,2.0,120.0,0.016666666666666666,reVLAT_NoViz+Choices,Gemini
+Stacked Bar Chart,4,Make Comparisons (absolute value),make comparisons,29.0,120.0,0.24166666666666667,reVLAT_NoViz+Choices,Gemini
+Stacked Bar Chart,5,Make Comparisons (relative value),make comparisons,14.0,120.0,0.11666666666666667,reVLAT_NoViz+Choices,Gemini
+100% Stacked Bar Chart,1,Retrieve value (relative value),retrieve value,18.0,120.0,0.15,reVLAT_NoViz+Choices,Gemini
+100% Stacked Bar Chart,2,Find Extremum (relative value),find extremum,3.0,120.0,0.025,reVLAT_NoViz+Choices,Gemini
+100% Stacked Bar Chart,3,Make Comparisons (relative value),make comparisons,104.0,120.0,0.8666666666666667,reVLAT_NoViz+Choices,Gemini
+Pie Chart,1,Retrieve Value (relative value),retrieve value,7.0,120.0,0.058333333333333334,reVLAT_NoViz+Choices,Gemini
+Pie Chart,2,Find Extremum (relative value),find extremum,108.0,120.0,0.9,reVLAT_NoViz+Choices,Gemini
+Pie Chart,3,Make Comparisons (relative value),make comparisons,2.0,120.0,0.016666666666666666,reVLAT_NoViz+Choices,Gemini
+Histogram,1,Retrieve value (derived value),retrieve value,32.0,120.0,0.26666666666666666,reVLAT_NoViz+Choices,Gemini
+Histogram,2,Find Extremum (derived value),find extremum,20.0,120.0,0.16666666666666666,reVLAT_NoViz+Choices,Gemini
+Histogram,3,Make Comparisons (derived value),make comparisons,2.0,120.0,0.016666666666666666,reVLAT_NoViz+Choices,Gemini
+Scatterplot,1,Retrieve Value,retrieve value,48.0,120.0,0.4,reVLAT_NoViz+Choices,Gemini
+Scatterplot,2,Find Extremum,find extremum,95.0,120.0,0.7916666666666666,reVLAT_NoViz+Choices,Gemini
+Scatterplot,3,Determine Range,determine range,54.0,120.0,0.45,reVLAT_NoViz+Choices,Gemini
+Scatterplot,4,Find Anomalies,find anomalies,0.0,120.0,0.0,reVLAT_NoViz+Choices,Gemini
+Scatterplot,5,Find Clusters,find clusters,13.0,120.0,0.10833333333333334,reVLAT_NoViz+Choices,Gemini
+Scatterplot,6,Find Correlations/Trends,find correlations/trends,3.0,120.0,0.025,reVLAT_NoViz+Choices,Gemini
+Scatterplot,7,Make Comparisons,make comparisons,88.0,120.0,0.7333333333333333,reVLAT_NoViz+Choices,Gemini
+Bubble Chart,1,Retrieve Value,retrieve value,7.0,120.0,0.058333333333333334,reVLAT_NoViz+Choices,Gemini
+Bubble Chart,2,Find extremum,find extremum,7.0,120.0,0.058333333333333334,reVLAT_NoViz+Choices,Gemini
+Bubble Chart,3,Determine range,determine range,31.0,120.0,0.25833333333333336,reVLAT_NoViz+Choices,Gemini
+Bubble Chart,4,Find anomalies,find anomalies,30.0,120.0,0.25,reVLAT_NoViz+Choices,Gemini
+Bubble Chart,5,Find clusters,find clusters,45.0,120.0,0.375,reVLAT_NoViz+Choices,Gemini
+Bubble Chart,6,Find correlations/trends,find correlations/trends,116.0,120.0,0.9666666666666667,reVLAT_NoViz+Choices,Gemini
+Bubble Chart,7,Make comparisons,make comparisons,86.0,120.0,0.7166666666666667,reVLAT_NoViz+Choices,Gemini
+Area Chart,1,Retrieve Value,retrieve value,19.0,120.0,0.15833333333333333,reVLAT_NoViz+Choices,Gemini
+Area Chart,2,Find Extremum,find extremum,44.0,120.0,0.36666666666666664,reVLAT_NoViz+Choices,Gemini
+Area Chart,3,Determine Range,determine range,23.0,120.0,0.19166666666666668,reVLAT_NoViz+Choices,Gemini
+Area Chart,4,Find Correlations/Trends,find correlations/trends,81.0,120.0,0.675,reVLAT_NoViz+Choices,Gemini
+Stacked Area Chart,1,Retrieve Value (absolute value),retrieve value,33.0,120.0,0.275,reVLAT_NoViz+Choices,Gemini
+Stacked Area Chart,2,Retrieve Value (relative value),retrieve value,39.0,120.0,0.325,reVLAT_NoViz+Choices,Gemini
+Stacked Area Chart,3,Find Extremum,find extremum,4.0,120.0,0.03333333333333333,reVLAT_NoViz+Choices,Gemini
+Stacked Area Chart,4,Find Correlations/Trends,find correlations/trends,20.0,120.0,0.16666666666666666,reVLAT_NoViz+Choices,Gemini
+Stacked Area Chart,5,Make Comparisons (absolute value),make comparisons,111.0,120.0,0.925,reVLAT_NoViz+Choices,Gemini
+Stacked Area Chart,6,Make Comparisons (relative value),make comparisons,59.0,120.0,0.49166666666666664,reVLAT_NoViz+Choices,Gemini
+Choropleth Map,1,Retrieve Value,retrieve value,10.0,120.0,0.08333333333333333,reVLAT_NoViz+Choices,Gemini
+Choropleth Map,2,Find Extremum,find extremum,57.0,120.0,0.475,reVLAT_NoViz+Choices,Gemini
+Choropleth Map,3,Make Comparisons,make comparisons,8.0,120.0,0.06666666666666667,reVLAT_NoViz+Choices,Gemini
+Treemap,1,Find Extremum (relative value),find extremum,1.0,120.0,0.008333333333333333,reVLAT_NoViz+Choices,Gemini
+Treemap,2,Make Comparisons (relative value),make comparisons,108.0,120.0,0.9,reVLAT_NoViz+Choices,Gemini
+Treemap,3,Identify the Hierarchical Structure,identify the hierarchical structure,23.0,120.0,0.19166666666666668,reVLAT_NoViz+Choices,Gemini

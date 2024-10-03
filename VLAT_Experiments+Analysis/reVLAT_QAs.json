@@ -1,0 +1,469 @@
+{
+    "Line Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/line%20chart.png",
+        "path":"visualization creation/Charts in tests/line chart.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What was the price of a barrel of oil in February 2015?",
+                "Choices":["$58.31","$45.61","$50.28","$54.67"],
+                "A":"$45.61",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"In which month was the price of a barrel of oil the lowest in 2015?",
+                "Choices":["March","June","September","December"],
+                "A":"June",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"What was the price range of a barrel of oil in 2015?",
+                "Choices":["$37.36-$63.73","$37.63-$65.78","$37.63-$61.04","$48.35-$58.36"],
+                "A":"$37.36-$63.73",
+                "Type":"Determine Range"
+            },
+            "4":
+            {
+                "Q":"Over the course of the second half of 2015, the price of a barrel of oil was ___.",
+                "Choices":["rising","falling","staying"],
+                "A":"rising",
+                "Type":"Find Correlations/Trends"
+            },
+            "5":
+            {
+                "Q":"About how much did the price of a barrel of oil rise from June to September in 2015?",
+                "Choices":["$8","$15","$20","$45"],
+                "A":"$20",
+                "Type":"Make Comparisons"
+            }
+        }
+    },
+    "Bar Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/bar%20chart.png",
+        "path":"visualization creation/Charts in tests/bar chart.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the average internet speed in Japan?",
+                "Choices":["7 Mbps","10.2 Mbps","11.6 Mbps","15 Mbps"],
+                "A":"11.6 Mbps",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"In which country is the average internet speed the fastest in Asia?",
+                "Choices":["Australia","Hong Kong","Sri Lanka","Vietnam"],
+                "A":"Sri Lanka",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"What is the range of the average internet speed in Asia?",
+                "Choices":["0 - 20 Mbps","2.5 - 16 Mbps","9.5 - 19 Mbps","10 - 15 Mbps"],
+                "A":"9.5 - 19 Mbps",
+                "Type":"Determine Range"
+            },
+            "4":
+            {
+                "Q":"How many countries in Asia is the average Internet speed slower than South Korea?",
+                "Choices":["6 countries","7 countries","8 countries","11 countries"],
+                "A":"8 countries",
+                "Type":"Make Comparisons"
+            }
+        }
+    },
+    "Stacked Bar Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/stacked%20bar%20chart.png",
+        "path":"visualization creation/Charts in tests/stacked bar chart.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the cost of peanuts in Las Vegas?",
+                "Choices":["$4.00","$9.00","$9.50","$12.00"],
+                "A":"$4.00",
+                "Type":"Retrieve Value (absolute value)"
+            },
+            "2":
+            {
+                "Q":"About what is the ratio of the cost of a sandwich to the total cost of room service in Seattle?",
+                "Choices":["1 to 4","1 to 5","4 to 10","1 to 10"],
+                "A":"1 to 10",
+                "Type":"Retrieve Value (relative value)"
+            },
+            "3":
+            {
+                "Q":"In which city is the cost of soda the highest?",
+                "Choices":["New York City","Boston","Atlanta","Chicago"],
+                "A":"Chicago",
+                "Type":"Find Extremum"
+            },
+            "4":
+            {
+                "Q":"The cost of water in Boston is higher than that of New York City.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons (absolute value)"
+            },
+            "5":
+            {
+                "Q":"The ratio of the cost of peanuts to the cost of water in Las Vegas is higher than that of San Francisco.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "100% Stacked Bar Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/100%20stacked%20bar%20chart.png",
+        "path":"visualization creation/Charts in tests/100 stacked bar chart.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the approval rating of Republicans among the people who have the education level of Postgraduate Study?",
+                "Choices":["31%","47%","53%","76%"],
+                "A":"76%",
+                "Type":"Retrieve value (relative value)"
+            },
+            "2":
+            {
+                "Q":"What is the education level of people in which the Democrats have the lowest approval rating?",
+                "Choices":["High School Graduate or Less","Some College Degree","College Graduate","Postgraduate Study"],
+                "A":"Postgraduate Study",
+                "Type":"Find Extremum (relative value)"
+            },
+            "3":
+            {
+                "Q":"The approval rating of Republicans for the people who have the education level of Some College Degree is lower than that for the people who have the education level of Postgraduate Study.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "Pie Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/pie%20chart.png",
+        "path":"visualization creation/Charts in tests/pie chart.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"About what is the global smartphone market share of Huawei?",
+                "Choices":["15%","25%","33%","50%"],
+                "A":"33%",
+                "Type":"Retrieve Value (relative value)"
+            },
+            "2":
+            {
+                "Q":"In which company is the global smartphone market share the smallest?",
+                "Choices":["Apple","Xiaomi","Lenovo","Others"],
+                "A":"Others",
+                "Type":"Find Extremum (relative value)"
+            },
+            "3":
+            {
+                "Q":"The global smartphone market share of Lenovo is larger than that of Samsung.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "Histogram":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/histogram.png",
+        "path":"visualization creation/Charts in tests/histogram.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"How many people have rated the taxi between 4.0 and 4.2?",
+                "Choices":["145","153","199","336"],
+                "A":"336",
+                "Type":"Retrieve value (derived value)"
+            },
+            "2":
+            {
+                "Q":"What is the rating that the people have rated the taxi the most?",
+                "Choices":["4.0 - 4.2","4.4 - 4.6","4.6 - 4.8","4.8 - 5.0"],
+                "A":"4.0 - 4.2",
+                "Type":"Find Extremum (derived value)"
+            },
+            "3":
+            {
+                "Q":"More people have rated the taxi between 4.6 and 4.8 than between 4.2 and 4.4.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons (derived value)"
+            }
+        }
+    },
+    "Scatterplot":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/scatter%20plot.png",
+        "path":"visualization creation/Charts in tests/scatter plot.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the weight for the person who is 165.1 cm tall?",
+                "Choices":["53.9kg","67.7kg","69.0kg","82.7kg"],
+                "A":"69.0kg",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"What is the height for the tallest person among the 85 males? ",
+                "Choices":["175.3cm","192cm","195.1cm","197.7cm"],
+                "A":"197.7cm",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"What is the range in weight for the 85 males?",
+                "Choices":["40 - 130kg","62.3 - 90.9kg","53.9 - 102.3kg","53.9 - 131.6kg"],
+                "A":"53.9 - 131.6kg",
+                "Type":"Determine Range"
+            },
+            "4":
+            {
+                "Q":"What is the height for a person who lies outside the others the most?",
+                "Choices":["167.4cm","171.9cm","193cm","197.7cm"],
+                "A":"171.9cm",
+                "Type":"Find Anomalies"
+            },
+            "5":
+            {
+                "Q":"A group of males are gathered around the height of 176 cm and the weight of 70 kg.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Find Clusters"
+            },
+            "6":
+            {
+                "Q":"There is a negative linear relationship between the height and the weight of the 85 males.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Find Correlations/Trends"
+            },
+            "7":
+            {
+                "Q":"The weights for males with the height of 188 cm are all the same.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons"
+            }
+        }
+    },
+    "Bubble Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/bubblePlot.png",
+        "path":"visualization creation/Charts in tests/bubblePlot.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the total length of the metro system in Beijing?",
+                "Choices":["330km","400km","530km","560km"],
+                "A":"330km",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"Which city's metro system has the largest number of stations?",
+                "Choices":["Seoul","Beijing","New York City","Paris"],
+                "A":"Paris",
+                "Type":"Find extremum"
+            },
+            "3":
+            {
+                "Q":"What is the range of the total length of the metro systems?",
+                "Choices":["150 - 600km","240 - 380km","240 - 560km","190 - 530km"],
+                "A":"190 - 530km",
+                "Type":"Determine range"
+            },
+            "4":
+            {
+                "Q":"Which city's metro system does lie outside the relationship between the total system length and the number of stations most?",
+                "Choices":["Moscow","New York City","Beijing","London"],
+                "A":"Moscow",
+                "Type":"Find anomalies"
+            },
+            "5":
+            {
+                "Q":"A group of the metro systems of the world has approximately 200 stations and around a 200 km system length.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Find clusters"
+            },
+            "6":
+            {
+                "Q":"In general, the ridership of the metro system increases as the number of stations increases.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Find correlations/trends"
+            },
+            "7":
+            {
+                "Q":"The metro system in Paris has more ridership than the metro system in New York City.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make comparisons"
+            }
+        }
+    },
+    "Area Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/area%20chart.png",
+        "path":"visualization creation/Charts in tests/area chart.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What was the average price of a pound of coffee beans in June 2013?",
+                "Choices":["$4.65","$5.20","$5.72","$5.92"],
+                "A":"$5.20",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"When was the average price of a pound of coffee beans at minimum?",
+                "Choices":["March 2013","September 2013","June 2014","October 2014"],
+                "A":"March 2013",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"What was the range of the average price of a pound of coffee beans between January 2013 and December 2014?",
+                "Choices":["$4.43 - $6.22","$4.42 - $6.21","$4.62 - $6.01","$4.65 - $6.17"],
+                "A":"$4.65 - $6.17",
+                "Type":"Determine Range"
+            },
+            "4":
+            {
+                "Q":"Over the course of 2013, the average price of a pound of coffee beans was ______.",
+                "Choices":["rising","falling","staying"],
+                "A":"rising",
+                "Type":"Find Correlations/Trends"
+            }
+        }
+    },
+    "Stacked Area Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/stacked%20area%20chart.png",
+        "path":"visualization creation/Charts in tests/stacked area chart.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What was the number of girls named 'Amelia' in 2010 in the UK?",
+                "Choices":["3,500","9,800","13,200","23,800"],
+                "A":"13,200",
+                "Type":"Retrieve Value (absolute value)"
+            },
+            "2":
+            {
+                "Q":"About what was the ratio of the number of girls named 'Amelia' to those named 'Isla' in 2014 in the UK?",
+                "Choices":["1 to 1","1 to 2","1 to 3","1 to 4"],
+                "A":"1 to 2",
+                "Type":"Retrieve Value (relative value)"
+            },
+            "3":
+            {
+                "Q":"Over the course of years between 2009 and 2014, when was the number of girls named 'Amelia' at the maximum?",
+                "Choices":["2009","2011","2012","2014"],
+                "A":"2009",
+                "Type":"Find Extremum"
+            },
+            "4":
+            {
+                "Q":"The number of girls named 'Isla' was ______ from 2009 to 2012.",
+                "Choices":["rising","falling","staying"],
+                "A":"falling",
+                "Type":"Find Correlations/Trends"
+            },
+            "5":
+            {
+                "Q":"In the UK, the number of girls named 'Amelia' in 2014 was more than it was in 2013.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (absolute value)"
+            },
+            "6":
+            {
+                "Q":"Over the course of years between 2009 and 2014, the number of girls named 'Isla' was always more than 'Olivia'.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "Choropleth Map":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/choropleth.png",
+        "path":"visualization creation/Charts in tests/choropleth.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What was the unemployment rate for Indiana (IN) in 2015?",
+                "Choices":["1.1% - 2.3%","2.3% - 3.4%","3.4% - 4.6%","4.6% - 5.8%"],
+                "A":"1.1% - 2.3%",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"In which state was the unemployment rate the highest in 2015?",
+                "Choices":["Alaska (AK)","New Mexico (NM)","Florida (FL)","New York (NY)"],
+                "A":"Alaska (AK)",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"In 2015, the unemployment rate for Arizona (AZ) was higher than that of Oklahoma (OK).",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons"
+            }
+        }
+    },
+    "Treemap":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/treemap.png",
+        "path":"visualization creation/Charts in tests/treemap.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"For which website was the number of unique visitors the largest in 2010?",
+                "Choices":["Facebook","Amazon","Bing","Google"],
+                "A":"Bing",
+                "Type":"Find Extremum (relative value)"
+            },
+            "2":
+            {
+                "Q":"The number of unique visitors for Target was more than that of Ask in 2010.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (relative value)"
+            },
+            "3":
+            {
+                "Q":"Amazon is nested in the Computer category.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Identify the Hierarchical Structure"
+            }
+        }
+    }
+}

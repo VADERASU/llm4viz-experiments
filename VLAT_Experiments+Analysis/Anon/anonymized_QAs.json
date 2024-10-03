@@ -1,0 +1,354 @@
+{
+    "Line Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/line%20chart_anon.png",
+        "path":"Anon/Figures/line chart_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What was the price of a barrel of Product A in Feburary 2015?",
+                "Choices":["$58.31","$45.61","$50.28","$54.67"],
+                "A":"$45.61",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"In which month was the price of a barrel of Product A the lowest in 2015?",
+                "Choices":["March","June","September","December"],
+                "A":"June",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"What was the price range of a barrel of Product A in 2015?",
+                "Choices":["$37.36-$63.73","$37.63-$65.78","$37.63-$61.04","$48.35-$58.36"],
+                "A":"$37.36-$63.73",
+                "Type":"Determine Range"
+            },
+            "4":
+            {
+                "Q":"Over the course of the second half of 2015, the price of a barrel of Product A was ___.",
+                "Choices":["rising","falling","staying"],
+                "A":"rising",
+                "Type":"Find Correlations/Trends"
+            },
+            "5":
+            {
+                "Q":"About how much did the price of a barrel of Product A rise from June to September in 2015?",
+                "Choices":["$8","$15","$20","$45"],
+                "A":"$20",
+                "Type":"Make Comparisons"
+            }
+        }
+    },
+    "Bar Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/bar%20chart_anon.png",
+        "path":"Anon/Figures/bar chart_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the average internet speed in country F?",
+                "Choices":["7 Mbps","10.2 Mbps","11.6 Mbps","15 Mbps"],
+                "A":"11.6 Mbps",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"In which country is the average internet speed the fastest?",
+                "Choices":["Country A", "Country C", "Country K", "Country N"],
+                "A":"Country K",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"What is the range of the average internet speed?",
+                "Choices":["0 - 20 Mbps","2.5 - 16 Mbps","9.5 - 19 Mbps","10 - 15 Mbps"],
+                "A":"9.5 - 19 Mbps",
+                "Type":"Determine Range"
+            },
+            "4":
+            {
+                "Q":"How many countries in Asia is the average Internet speed slower than Country J?",
+                "Choices":["6 countries","7 countries","8 countries","11 countries"],
+                "A":"8 countries",
+                "Type":"Make Comparisons"
+            }
+        }
+    },
+    "Stacked Bar Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/stacked%20bar%20chart_anon.png",
+        "path":"Anon/Figures/stacked bar chart_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the cost of Product 3 in City B?",
+                "Choices":["$4.00","$9.00","$9.50","$12.00"],
+                "A":"$4.00",
+                "Type":"Retrieve Value (absolute value)"
+            },
+            "2":
+            {
+                "Q":"About what is the ratio of the cost of Product 5 to the total cost of room service in City J?",
+                "Choices":["1 to 4","1 to 5","4 to 10","1 to 10"],
+                "A":"1 to 10",
+                "Type":"Retrieve Value (relative value)"
+            },
+            "3":
+            {
+                "Q":"In which city is the cost of Product 2 the highest?",
+                "Choices":["City A", "City E", "City D", "City G"],
+                "A":"City G",
+                "Type":"Find Extremum"
+            },
+            "4":
+            {
+                "Q":"The cost of Product 4 in City E is higher than that of City A.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons (absolute value)"
+            },
+            "5":
+            {
+                "Q":"The ratio of the cost of Product 3 to the cost of Product 4 in City B is higher than that of City I.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "100% Stacked Bar Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/100%20stacked%20bar%20chart_anon.png",
+        "path":"Anon/Figures/100 stacked bar chart_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the approval rating of Party B among the people who have the education level of Postgraduate Study?",
+                "Choices":["31%","47%","53%","76%"],
+                "A":"76%",
+                "Type":"Retrieve value (relative value)"
+            },
+            "2":
+            {
+                "Q":"What is the education level of people in which the Party A have the lowest approval rating?",
+                "Choices":["High School Graduate or Less","Some College Degree","College Graduate","Postgraduate Study"],
+                "A":"Postgraduate Study",
+                "Type":"Find Extremum (relative value)"
+            },
+            "3":
+            {
+                "Q":"The approval rating of Party B for the people who have the education level of Some College Degree is lower than that for the people who have the education level of Postgraduate Study.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "Pie Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/pie%20chart_anon_anon.png",
+        "path":"Anon/Figures/pie chart_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"About what is the global smartphone market share of Company A?",
+                "Choices":["15%","25%","33%","50%"],
+                "A":"33%",
+                "Type":"Retrieve Value (relative value)"
+            },
+            "2":
+            {
+                "Q":"In which company is the global company market share the smallest?",
+                "Choices":["Company C", "Company E", "Company F", "Others"],
+                "A":"Company E",
+                "Type":"Find Extremum (relative value)"
+            },
+            "3":
+            {
+                "Q":"The global compnay market share of Company B is larger than that of Company E.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "Bubble Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/bubblePlot_anon.png",
+        "path":"Anon/Figures/bubblePlot_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What is the total length of the metro system in City C?",
+                "Choices":["330km","400km","530km","560km"],
+                "A":"330km",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"Which city's metro system has the largest number of stations?",
+                "Choices":["City E", "City C", "City A", "City F"],
+                "A":"City F",
+                "Type":"Find extremum"
+            },
+            "3":
+            {
+                "Q":"What is the range of the total length of the metro systems?",
+                "Choices":["150 - 600km","240 - 380km","240 - 560km","190 - 530km"],
+                "A":"190 - 530km",
+                "Type":"Determine range"
+            },
+            "4":
+            {
+                "Q":"Which city's metro system does lie outside the relationship between the total system length and the number of stations most?",
+                "Choices":["City G", "City A", "City C", "City D"],
+                "A":"City G",
+                "Type":"Find anomalies"
+            },
+            "5":
+            {
+                "Q":"A group of the metro systems of the world has approximately 200 stations and around a 200 km system length.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Find clusters"
+            },
+            "6":
+            {
+                "Q":"In general, the ridership of the metro system increases as the number of stations increases.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Find correlations/trends"
+            },
+            "7":
+            {
+                "Q":"The metro system in City F has more ridership than the metro system in City A.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make comparisons"
+            }
+        }
+    },
+    "Area Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/area%20chart_anon.png",
+        "path":"Anon/Figures/area chart_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What was the average price of a pound of Product A in June 2013?",
+                "Choices":["$4.65","$5.20","$5.72","$5.92"],
+                "A":"$5.20",
+                "Type":"Retrieve Value"
+            },
+            "2":
+            {
+                "Q":"When was the average price of a pound of Product A at minimum?",
+                "Choices":["March 2013","September 2013","June 2014","October 2014"],
+                "A":"March 2013",
+                "Type":"Find Extremum"
+            },
+            "3":
+            {
+                "Q":"What was the range of the average price of a pound of Product A between January 2013 and December 2014?",
+                "Choices":["$4.43 - $6.22","$4.42 - $6.21","$4.62 - $6.01","$4.65 - $6.17"],
+                "A":"$4.65 - $6.17",
+                "Type":"Determine Range"
+            },
+            "4":
+            {
+                "Q":"Over the course of 2013, the average price of a pound of Product A was ______.",
+                "Choices":["rising","falling","staying"],
+                "A":"rising",
+                "Type":"Find Correlations/Trends"
+            }
+        }
+    },
+    "Stacked Area Chart":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/stacked%20area%20chart_anon.png",
+        "path":"Anon/Figures/stacked area chart_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"What was the number of people named 'Name A' in 2010?",
+                "Choices":["3,500","9,800","13,200","23,800"],
+                "A":"13,200",
+                "Type":"Retrieve Value (absolute value)"
+            },
+            "2":
+            {
+                "Q":"About what was the ratio of the number of people named 'Name A' to those named 'Name B' in 2014?",
+                "Choices":["1 to 1","1 to 2","1 to 3","1 to 4"],
+                "A":"1 to 2",
+                "Type":"Retrieve Value (relative value)"
+            },
+            "3":
+            {
+                "Q":"Over the course of years between 2009 and 2014, when was the number of people named 'Name A' at the maximum?",
+                "Choices":["2009","2011","2012","2014"],
+                "A":"2009",
+                "Type":"Find Extremum"
+            },
+            "4":
+            {
+                "Q":"The number of people named 'Name B' was ______ from 2009 to 2012.",
+                "Choices":["rising","falling","staying"],
+                "A":"falling",
+                "Type":"Find Correlations/Trends"
+            },
+            "5":
+            {
+                "Q":"The number of people named 'Name A' in 2014 was more than it was in 2013.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (absolute value)"
+            },
+            "6":
+            {
+                "Q":"Over the course of years between 2009 and 2014, the number of people named 'Name B' was always more than 'Name C'.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Make Comparisons (relative value)"
+            }
+        }
+    },
+    "Treemap":
+    {
+        "url":"https://vader.lab.asu.edu/images/revlat/treemap_anon.png",
+        "path":"Anon/Figures/treemap_anon.png",
+        "QAs":
+        {
+            "1":
+            {
+                "Q":"For which website was the number of unique visitors the largest in 2010?",
+                "Choices":["AD", "AE", "AB", "AJ"],
+                "A":"AB",
+                "Type":"Find Extremum (relative value)"
+            },
+            "2":
+            {
+                "Q":"The number of unique visitors for AN was more than that of AC in 2010.",
+                "Choices":["True","False"],
+                "A":"True",
+                "Type":"Make Comparisons (relative value)"
+            },
+            "3":
+            {
+                "Q":"AE is nested in the Computer category.",
+                "Choices":["True","False"],
+                "A":"False",
+                "Type":"Identify the Hierarchical Structure"
+            }
+        }
+    }
+}
