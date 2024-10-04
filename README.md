@@ -1,5 +1,5 @@
-# LLM4Viz
-VLAT experiments on ChatGPT-4 and Gemini.  This is based on our TVGC paper "Do LLMs have Visualization Literacy?".
+# Experiments and Analysis for "Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation"
+VLAT experiments on ChatGPT-4 and Gemini.  This is based on our TVGC paper "Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation.".
 
 Note: To run the experiments, you will need a "cred.json" file to the repo with the following template:
 
