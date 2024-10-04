@@ -1,5 +1,5 @@
 # LLM4Viz
-VLAT experiments on ChatGPT-4 and Gemini.  This is based on our TVGC paper "[Do LLMs have Visualization Literacy?](https://www.overleaf.com/project/66eda51b8f10da3134cd7d22)".  <--NEED TO REPLACE LINK
+VLAT experiments on ChatGPT-4 and Gemini.  This is based on our TVGC paper "Do LLMs have Visualization Literacy?".
 
 Note: To run the experiments, you will need a "cred.json" file to the repo with the following template:
 
@@ -59,43 +59,43 @@ A choropleth map visualizes unemployment rates by state in the US. The color sca
 ## Instructions for Running Experiments
 We conducted five types of experiments: 
 
-1. Evaluate LLMs' Visualization Literacy ([reVLAT_Viz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_Viz%2BChoices))
-2. Examine LLMs' Performance without Vis. ([reVLAT_NoViz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_NoViz%2BChoices))
-3. Examine LLMs' Choice-Free Performance ([reVLAT_Viz+NoChoices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_Viz%2BNoChoices))
-4. Examine LLMs' Choice-Free Performance without Visualization and Choices ([reVLAT_NoViz+NoChoices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_NoViz%2BNoChoices))
+1. Evaluate LLMs' Visualization Literacy ([reVLAT_Viz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_Viz%2BChoices))
+2. Examine LLMs' Performance without Vis. ([reVLAT_NoViz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_NoViz%2BChoices))
+3. Examine LLMs' Choice-Free Performance ([reVLAT_Viz+NoChoices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_Viz%2BNoChoices))
+4. Examine LLMs' Choice-Free Performance without Visualization and Choices ([reVLAT_NoViz+NoChoices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_NoViz%2BNoChoices))
 5. Examine LLMs' Performance of Decontextualized Visualization
-   1. Visualization and choices ([Anon_reVLAT_Viz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Anon_reVLAT_Viz%2BChoices))
-   2. No visualization and choices ([Anon_reVLAT_NoViz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Anon_reVLAT_NoViz%2BChoices))
+   1. Visualization and choices ([Anon_reVLAT_Viz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Anon_reVLAT_Viz%2BChoices))
+   2. No visualization and choices ([Anon_reVLAT_NoViz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Anon_reVLAT_NoViz%2BChoices))
   
 All experiments were run with Python scripts using ChatGPT and Gemini's API.
 
 ### Evaluate LLMs' Visualization Literacy
-To run this experiment, run the reVLAT_ChatGPT.py and reVLAT_Gemini.py Python scripts in [reVLAT_Viz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_Viz%2BChoices).  The results will be saved in the "[Results](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_Viz%2BChoices/Results)" directory.
+To run this experiment, run the reVLAT_ChatGPT.py and reVLAT_Gemini.py Python scripts in [reVLAT_Viz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_Viz%2BChoices).  The results will be saved in the "Results" directory within [reVLAT_Viz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_Viz%2BChoices) (user needs to create this directory locally).
 
 ### Examine LLMs' Performance without Vis.
-To run this experiment, run the reVLAT_ChatGPT_novis.py and reVLAT_Gemini_novis.py Python scripts in [reVLAT_NoViz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_NoViz%2BChoices).  The results will be saved in the "[Results](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_NoViz%2BChoices/Results)" directory.
+To run this experiment, run the reVLAT_ChatGPT_novis.py and reVLAT_Gemini_novis.py Python scripts in [reVLAT_NoViz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_NoViz%2BChoices).  The results will be saved in the "Results" directory within [reVLAT_NoViz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_NoViz%2BChoices) (user needs to create this directory locally).
 
 ### Examine LLMs' Choice-Free Performance
-To run this experiment, run the reVLAT_ChatGPT_nochoices.py and reVLAT_Gemini_nochoices.py Python scripts in [reVLAT_Viz+NoChoices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_Viz%2BNoChoices).  The results will be saved in the "[Results](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_Viz%2BNoChoices/Results)" directory.
+To run this experiment, run the reVLAT_ChatGPT_nochoices.py and reVLAT_Gemini_nochoices.py Python scripts in [reVLAT_Viz+NoChoices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_Viz%2BNoChoices).  The results will be saved in the "Results" directory within [reVLAT_Viz+NoChoices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_Viz%2BNoChoices) (user needs to create this directory locally).
 
 ### Examine LLMs' Choice-Free Performance without Visualization and Choices
-To run this experiment, run the reVLAT_ChatGPT_noviz+nochoices.py and reVLAT_Gemini_noviz+nochoices.py Python scripts in [reVLAT_NoViz+NoChoices](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_NoViz%2BNoChoices).  The results will be saved in the "[Results](https://github.com/cseto23/LLM4Viz/tree/main/reVLAT_NoViz%2BNoChoices/Results)" directory.
+To run this experiment, run the reVLAT_ChatGPT_noviz+nochoices.py and reVLAT_Gemini_noviz+nochoices.py Python scripts in [reVLAT_NoViz+NoChoices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_NoViz%2BNoChoices).  The results will be saved in the "Results" directory within [reVLAT_NoViz+NoChoices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/reVLAT_NoViz%2BNoChoices) (user needs to create this directory locally).
 
 ### Examine LLMs' Performance of Decontextualized Visualization
 There are two sets of experiments for decontextualized/anonymized visualizations: visualizations present and absent.  All code is stored [here](https://github.com/cseto23/LLM4Viz/tree/main/Anon).
 
 #### Visualizations Present
-To run this experiment, run the ChatGPT_test.py and Gemini_test.py Python scripts in [Anon_reVLAT_Viz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Anon_reVLAT_Viz%2BChoices).  The results will be saved in the "[ChatGPT/reVLAT_Viz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Results/ChatGPT/reVLAT_Viz%2BChoices)" directory for ChatGPT and "[Gemini/reVLAT_Viz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Results/Gemini/reVLAT_Viz%2BChoices)" for Gemini.
+To run this experiment, run the ChatGPT_test.py and Gemini_test.py Python scripts in [Anon_reVLAT_Viz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Anon_reVLAT_Viz%2BChoices).  The results will be saved in the "reVLAT_Viz+Choices" directory within [ChatGPT](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Results/ChatGPT)" for ChatGPT and the "reVLAT_Viz+Choices" directory within [Gemini](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Results/Gemini) for Gemini (user needs to create these directories).
 
 #### Visualizations Absent
-To run this experiment, run the ChatGPT_test.py and Gemini_test.py Python scripts in [Anon_reVLAT_NoViz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Anon_reVLAT_NoViz%2BChoices).  The results will be saved in the "[ChatGPT/reVLAT_NoViz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Results/ChatGPT/reVLAT_NoViz%2BChoices)" directory for ChatGPT and "[Gemini/reVLAT_Viz+Choices](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Results/Gemini/reVLAT_NoViz%2BChoices)" for Gemini.
+To run this experiment, run the ChatGPT_test.py and Gemini_test.py Python scripts in [Anon_reVLAT_NoViz+Choices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Anon_reVLAT_NoViz%2BChoices).  The results will be saved in the "reVLAT_NoViz+Choices" directory within [ChatGPT](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Results/ChatGPT) for ChatGPT and the "reVLAT_Viz+Choices" directory within [Gemini](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Results/Gemini) for Gemini (user needs to create these directories).
 
 ## Analysis Code
-For experiments 1 and 2, we focused on fitting a logistic model to our data.  In order to explore the best logistic regression model, we performed analysis on a variety of hyperparameters, which was done in [fullLogisticModelScript.py](https://github.com/cseto23/LLM4Viz/blob/main/fullLogisticModelScript.py), and the results were stored [here](https://github.com/cseto23/LLM4Viz/tree/main/Analysis/fullLogisticModel).
+For experiments 1 and 2, we focused on fitting a logistic model to our data.  Initially, we preprocess the data within the [Analysis.ipynb](https://github.com/VADERASU/llm4viz-experiments/blob/main/VLAT_Experiments%2BAnalysis/Analysis.ipynb) notebook (under the "Get Data" and first part of the "Full Logistic Regression" sections).  Then, to explore the best logistic regression model, we performed analysis on a variety of hyperparameters, which was done in [fullLogisticModelScript.py](https://github.com/VADERASU/llm4viz-experiments/blob/main/VLAT_Experiments%2BAnalysis/fullLogisticModelScript.py), and the results were stored [here](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Analysis/fullLogisticModel).
 
-Using the results of the logistic regression model(s), we tested whether the visualization presence or absence affected the correctness in [vizDiffProbScript.py](https://github.com/cseto23/LLM4Viz/blob/main/vizDiffProbScript.py).  Similarly, we tested whether ChatGPT or Gemini was better at answering VLAT questions in [llmDiffProbScript.py](https://github.com/cseto23/LLM4Viz/blob/main/llmDiffProbScript.py).  The remaining analyses/plot code for experiments 1 and 2 were done in the [Analysis.ipynb](https://github.com/cseto23/LLM4Viz/blob/main/Analysis.ipynb) notebook.
+Using the results of the logistic regression model(s), we tested whether the visualization presence or absence affected the correctness in [vizDiffProbScript.py](https://github.com/VADERASU/llm4viz-experiments/blob/main/VLAT_Experiments%2BAnalysis/vizDiffProbScript.py).  Similarly, we tested whether ChatGPT or Gemini was better at answering VLAT questions in [llmDiffProbScript.py](https://github.com/VADERASU/llm4viz-experiments/blob/main/VLAT_Experiments%2BAnalysis/llmDiffProbScript.py).  The remaining analyses/plot code for experiments 1 and 2 were done in the [Analysis.ipynb](https://github.com/VADERASU/llm4viz-experiments/blob/main/VLAT_Experiments%2BAnalysis/Analysis.ipynb) notebook.
 
-The analysis on experiments 3 and 4 were done in the "[noChoices](https://github.com/cseto23/LLM4Viz/tree/main/Analysis/noChoices)" directory
+The analysis on experiments 3 and 4 were done in the "[noChoices](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Analysis/noChoice)" directory
 
 [//]: # (&#40;**TODO**: Elaborate paragraph, explain different notebooks, Arlen Fan&#41;.)
 This directory consists of jupyter notebooks that process the results for the no choices, range-based responses. Starting with `arlen_range_analysis.ipynb`, the data is read df = pd.read_csv('noChoices_range_only.csv')
@@ -138,8 +138,4 @@ After this step, we use matplotlib to create a horizontal bar plot showing the m
 Another step is done to handle text questions. It filters the results based on these questions, organizing the data for further analysis or visualization.
 All of this is outputted in `noChoicesResults_text_singleWord.csv`
 
-
-
-
-
-Finally, the decontextualized/anonymized experiments were analyzed in the [anonymized_analysis.ipynb](https://github.com/cseto23/LLM4Viz/blob/main/Anon/anonymized_analysis.ipynb) notebook. The results will be saved in the "[Results](https://github.com/cseto23/LLM4Viz/tree/main/Anon/Results)" directory.
+Finally, the decontextualized/anonymized experiments were analyzed in the [anonymized_analysis.ipynb](https://github.com/VADERASU/llm4viz-experiments/blob/main/VLAT_Experiments%2BAnalysis/Anon/anonymized_analysis.ipynb) notebook. The results will be saved in the "[Results](https://github.com/VADERASU/llm4viz-experiments/tree/main/VLAT_Experiments%2BAnalysis/Anon/Results)" directory.
